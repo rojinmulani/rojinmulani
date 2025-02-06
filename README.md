@@ -12,17 +12,6 @@
   
 ---
 
-## 🏆 **Certifications**
-✅ **Data-Driven Decision Making - PwC**  
-✅ **Problem Solving with Advanced Excel - PwC**  
-✅ **Business Analytics** - **Swayam**  
-✅ **Hubspot Marketing Software Certified** - **Hubspot**
-✅ **Project Management Professional Cerification** - **Itronix Solutions**
-✅ **Power BI AI-Powered Interactive Dashboards Workshop** - **Office Master**
-✅ **Introduction to Financial Marketing**
-
----
-
 ## 🛠️ Technical Skills:
 
 ### 💻Tech & Tools:
@@ -49,6 +38,17 @@
 - **Adaptability**
 - **Leadership**
   
+---
+
+## 🏆 **Certifications**
+✅ **Data-Driven Decision Making - PwC**  
+✅ **Problem Solving with Advanced Excel - PwC**  
+✅ **Business Analytics** - **Swayam**  
+✅ **Hubspot Marketing Software Certified** - **Hubspot**
+✅ **Project Management Professional Cerification** - **Itronix Solutions**
+✅ **Power BI AI-Powered Interactive Dashboards Workshop** - **Office Master**
+✅ **Introduction to Financial Marketing**
+
 ---
 
 ## 🌐 **CONNECT**
