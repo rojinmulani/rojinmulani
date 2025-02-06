@@ -1,4 +1,4 @@
-    # 👋 Hi there, I'm Rojin Mulani!  
+ # 👋 Hi there, I'm Rojin Mulani!  
 🚀 **MBA Student | Marketing & Business Strategy Enthusiast**
 
 ---
